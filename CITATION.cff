@@ -3,7 +3,7 @@ cff-version: "1.2.0"
 message: "If you use this software, please cite it using these metadata."
 authors:
   -family-names: Hwang
-    given-names: Lorraine
+   given-names: Lorraine
 date-released: 2021-08-20
 doi: "10.5281/zenodo.3521035"
 identifiers:
@@ -12,13 +12,3 @@ keywords:
 license: "gpl 3.0"
 title: "Test case"
 version: "v0.2.0.5"
-preferred-citation:
-  authors:
-  - family-names: "preferred"
-    given-names: "Test"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-  - family-names: "Bot"
-    given-names: "Hew"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-    date-released: 2021-08-20
-    doi: "10.5281/zenodo.3521035"

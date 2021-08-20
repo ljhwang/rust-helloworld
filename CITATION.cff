@@ -12,3 +12,13 @@ title: "My Test Case"
 version: 2.0.4
 doi: 10.5281/zenodo.1234
 date-released: 2021-08-20
+preferred-citation:
+  authors:
+  - family-names: "preferred"
+    given-names: "Test"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Zombie"
+    given-names: "Apocalypse"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    date-released: 2021-08-20
+    doi: "10.5281/zenodo.3521035"

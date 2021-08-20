@@ -10,12 +10,33 @@ authors:
   orcid: "https://orcid.org/0000-0000-0000-0000"
 title: "My Test Case"
 version: 2.0.4
-doi: 10.5281/zenodo.1234
+doi: 10.5281/zenodo.3521035
 date-released: 2021-08-20
 preferred-citation:
   authors:
-    - family-names: Famnames
-      given-names: Given Nam E.
+    - family-names: Janeway
+      given-names: Katherine
   title: Title of the work.
   type: software
   year: 2021
+  references:
+    - type: software
+      authors:
+        - name: "The Dependency Project"
+      title: "Dependency"
+      date-released: 2021-07-26
+      doi: 10.5281/zenodo.x1234567
+      version: 0.13.4
+      repository-code: "https://github.com/dependency-project/dependency"
+    - type: article
+      scope: Cite this paper if you want to reference the general concepts of the software.
+      authors:
+        - family-names: Bielefeld
+          name-particle: von
+          given-names: Arthur
+      title: "Towards a 100% accuracy syntax parser for all languages"
+      year: 2099
+      journal: Journal of Hard Science Fiction
+      volume: 42
+      issue: 13
+      doi: 10.9999/hardscifi-lang.42132
